@@ -1,2 +1,3 @@
 Hi i am using git.i am learing the basics
 So i have created the repo and i have created the new branch and added the file.
+hello i am editing
